@@ -4,8 +4,7 @@ My own package for Sublime Text 3 with few little utilities.
 
 ## Install
 
-```
-#!shell
+```shell
 
 cd ~/.config/sublime-text-3/Packages
 git clone https://github.com/petrikoz/SublimeTextPackage.git
