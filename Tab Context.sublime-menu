@@ -1,4 +1,6 @@
 [
+    { "caption": "-" },
+    { "command": "delete_file" },
     { "caption": "-", "id": "clipboard" },
     { "command": "copy_file_name" }
 ]

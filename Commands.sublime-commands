@@ -3,4 +3,8 @@
     "caption": "File: Copy Name",
     "command": "copy_file_name"
   }
+  ,{
+    "caption": "File: Delete",
+    "command": "delete_file"
+  }
 ]
